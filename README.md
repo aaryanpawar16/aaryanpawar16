@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aaryanpawar16
-- 👀 I’m interested in C.
-- 🌱 I’m currently learning C language.
+- 👀 I’m interested in Javascript.
+- 🌱 I’m currently learning Javascript language.
 -
-- 📫 How to reach me - Instagram @lostintoinfinity
+- 📫 How to reach me - Instagram @i.feel.infinity
 
 <!---
 aaryanpawar16/aaryanpawar16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
