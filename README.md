@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aaryanpawar16
-- 👀 I’m interested in Javascript.
+- 👋 Hi, I’m AARYAN.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Javascript language.
 -
 
