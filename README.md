@@ -69,5 +69,5 @@ I am a Computer Engineering student and **AI Engineer in progress** focused on b
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanpawar16&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=aaryanpawar16&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
