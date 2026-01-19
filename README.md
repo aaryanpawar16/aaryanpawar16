@@ -10,9 +10,9 @@ I am a Computer Engineering student and **AI Engineer in progress** focused on b
 
 I do not optimize for Jupyter Notebook demos. I optimize for **systems that solve real problems, win hackathons, and provide value to users.**
 
-My work spans applied machine learning, **Agentic Systems**, NLP, Computer Vision, and end-to-end full stack development. I enjoy owning the full lifecycle from idea to deployment—evidenced by my wins at **#LeadWithAIAgents** and **ReverieHacks**.
+My work spans applied machine learning, **Agentic Systems**, NLP, **Computer Vision**, and end-to-end full stack development. I enjoy owning the full lifecycle from idea to deployment—evidenced by my research publications and wins at **#LeadWithAIAgents** and **ReverieHacks**.
 
-Currently refining my skills in **Generative AI** and building scalable tools like **Lawco** and **BuildAI**.
+Currently refining my skills in **Generative AI** and building scalable tools like **Lawco** and **VisionSpeak**.
 
 ---
 
@@ -42,13 +42,13 @@ Currently refining my skills in **Generative AI** and building scalable tools li
 
 ### 🚀 Featured Projects
 
+* **VisionSpeak** - Multimodal AI bridging visual info and audio feedback using OCR and Vision Transformers. *(Published in ICSIAIML 2025)*
 * **Lawco: Contract Risk Finder** - AI agent that detects risky legal clauses and simplifies contracts. *(3rd Prize, #LeadWithAIAgents)*
-* **BuildAI** - A No-Code website builder combining drag-and-drop UI with AI content generation. *(2nd Prize, Vibe Hacks)*
-* **Language Translator Agent** - Efficient GenAI agent for English-Hindi/German translation.
+* **Language Translator Agent** - Efficient GenAI agent for English-Hindi/German translation. *(2nd Prize, #LeadWithAIAgents)*
 
 ---
 
 ### 🛠️ Tech Stack
-* **AI/ML:** PyTorch, TensorFlow, LangChain, RAG, OpenAI API, Gemini.
+* **AI/ML:** PyTorch, TensorFlow, LangChain, RAG, OpenAI API, Gemini, Vision Transformers.
 * **Web:** React.js, Node.js, FastAPI, Streamlit.
 * **Languages:** Python, C++, Java, JavaScript.
