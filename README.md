@@ -60,13 +60,16 @@ I am a Computer Engineering student and **AI Engineer in progress** focused on b
 > An efficient GenAI Agent capable of translating text between English-Hindi and English-German with high context awareness.
 
 ---
+
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaryanpawar16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanpawar16&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aaryanpawar16&theme=tokyonight&hide_border=true" alt="streak graph" />
+  
+  <br/>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aaryanpawar16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="aaryanpawar16 trophies" />
+  </a>
 </div>
