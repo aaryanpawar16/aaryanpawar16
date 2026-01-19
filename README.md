@@ -1,54 +1,73 @@
-### 👋 Hi, I am Aaryan Pawar
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3596F5&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Aaryan+Pawar;AI+%26+ML+Engineer;Full+Stack+Developer;Building+Agentic+Systems" alt="Typing SVG" />
 
-## LLM and Agent Systems Developer
+  <p>
+    <a href="https://github.com/aaryanpawar16">
+      <img src="https://img.shields.io/github/followers/aaryanpawar16?label=Follow&style=social" alt="GitHub Followers" />
+    </a>
+    <a href="https://linkedin.com/in/aaryan-pawar-9026351b4/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
 ### 🌱 About Me
 
-I am a Computer Engineering student and **AI Engineer in progress** focused on building production-ready GenAI agents and full-stack applications.
+I am a Computer Engineering student and **AI Engineer in progress** focused on building production-ready GenAI agents. I do not optimize for demos; I optimize for **systems that solve real problems.**
 
-I do not optimize for Jupyter Notebook demos. I optimize for **systems that solve real problems, win hackathons, and provide value to users.**
+* 🔭 I’m currently working on **Agentic Systems & Computer Vision**
+* 🏆 **Awards:** Winner at #LeadWithAIAgents, ReverieHacks, and Vibe Hacks.
+* 📝 **Research:** Published in *ICSIAIML 2025* (VisionSpeak).
 
-My work spans applied machine learning, **Agentic Systems**, NLP, **Computer Vision**, and end-to-end full stack development. I enjoy owning the full lifecycle from idea to deployment—evidenced by my research publications and wins at **#LeadWithAIAgents** and **ReverieHacks**.
+---
 
-Currently refining my skills in **Generative AI** and building scalable tools like **Lawco** and **VisionSpeak**.
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,fastapi,pytorch,tensorflow,sklearn,opencv,git,docker,aws,firebase&perline=8&theme=dark" />
+</div>
 
 ---
 
 ### 💼 Experience
 
-#### AI/ML Intern
-**Code Alpha** | Remote | Dec 2025 – Jan 2026
+| Role | Company | Timeline |
+| :--- | :--- | :--- |
+| **AI/ML Intern** | 🎓 **Code Alpha** (Remote) | *Dec 2025 – Jan 2026* |
+| **AI/ML Intern** | 🏢 **Infosys Springboard** | *Aug 2025 – Nov 2025* |
+| **AI/ML Intern** | 🚀 **Elevvo Pathways** | *Sept 2025 – Oct 2025* |
 
-* Built a **Handwritten OCR system** using deep learning and image preprocessing techniques to digitize physical documents.
-* Developed a **Speech Emotion Recognition system** to identify human emotions from audio signals, strengthening skills in audio feature extraction.
-* Focused on end-to-end model training and deployment.
-
-#### AI/ML Intern
-**Infosys Springboard** | Remote | Aug 2025 – Nov 2025
-
-* Engineered an **AI-powered Public Policy Navigation tool** utilizing NLP for document summarization and semantic search.
-* Implemented **context-aware Q&A** to streamline access to complex government frameworks.
-* Worked with advanced NLP pipelines to enhance transparency in public data.
-
-#### AI/ML Intern
-**Elevvo Pathways** | Remote | Sept 2025 – Oct 2025
-
-* Executed four end-to-end machine learning projects spanning **supervised/unsupervised learning** and predictive analytics.
-* Orchestrated the complete ML lifecycle: data preprocessing, feature engineering, and model selection.
+> *Key achievements included building Handwritten OCR, Speech Emotion Recognition, and Public Policy Navigation tools using NLP.*
 
 ---
 
 ### 🚀 Featured Projects
 
-* **VisionSpeak** - Multimodal AI bridging visual info and audio feedback using OCR and Vision Transformers. *(Published in ICSIAIML 2025)*
-* **Lawco: Contract Risk Finder** - AI agent that detects risky legal clauses and simplifies contracts. *(3rd Prize, #LeadWithAIAgents)*
-* **Language Translator Agent** - Efficient GenAI agent for English-Hindi/German translation. *(2nd Prize, #LeadWithAIAgents)*
+#### 👁️ [VisionSpeak](https://github.com/aaryanpawar16/VisionSpeak)
+> **Published in ICSIAIML 2025**
+> A multimodal AI bridging visual info and audio feedback using OCR and Vision Transformers for visually impaired users.
+
+#### ⚖️ [Lawco: Contract Risk Finder](https://github.com/ElarizT/Mavericks)
+> **🏆 3rd Prize - #LeadWithAIAgents**
+> AI agent that detects risky legal clauses, simplifies contracts, and translates legalese into plain English.
+
+#### 🗣️ [Language Translator Agent](https://github.com/aaryanpawar16/Language-Translator-Agent)
+> **🏆 2nd Prize - #LeadWithAIAgents**
+> An efficient GenAI Agent capable of translating text between English-Hindi and English-German with high context awareness.
 
 ---
 
-### 🛠️ Tech Stack
-* **AI/ML:** PyTorch, TensorFlow, LangChain, RAG, OpenAI API, Gemini, Vision Transformers.
-* **Web:** React.js, Node.js, FastAPI, Streamlit.
-* **Languages:** Python, C++, Java, JavaScript.
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryanpawar16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanpawar16&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanpawar16&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
