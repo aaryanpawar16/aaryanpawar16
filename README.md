@@ -61,15 +61,17 @@ I am a Computer Engineering student and **AI Engineer in progress** focused on b
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryanpawar16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryanpawar16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanpawar16&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
   
   <br/>
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aaryanpawar16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="aaryanpawar16 trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryanpawar16&bg_color=1a1b27&color=70a5fd&line=3596F5&point=FFFFFF&hide_border=true" alt="Aaryan's Activity Graph" />
+
+  <br/>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR4Zmx6cTF5eHpwNXYyZnR4eGxpam5zZnk0ZmZ4emZ4eGxpam5zZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8K62iTDkzGX6/giphy.gif" width="100" />
 </div>
