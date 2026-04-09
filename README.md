@@ -37,7 +37,6 @@ I am a Computer Engineering student and **AI Engineer in progress** focused on b
 
 | Role | Company | Timeline |
 | :--- | :--- | :--- |
-| **AI/ML Intern** | 🎓 **Code Alpha** (Remote) | *Dec 2025 – Jan 2026* |
 | **AI/ML Intern** | 🏢 **Infosys Springboard** | *Aug 2025 – Nov 2025* |
 | **AI/ML Intern** | 🚀 **Elevvo Pathways** | *Sept 2025 – Oct 2025* |
 
