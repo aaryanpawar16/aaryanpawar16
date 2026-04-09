@@ -37,7 +37,7 @@ I am a Computer Engineering student and **AI Engineer in progress** focused on b
 
 | Role | Company | Timeline |
 | :--- | :--- | :--- |
-| **AI/ML Intern** | 🏢 **Infosys Springboard** | *Aug 2025 – Nov 2025* |
+| **AI/ML Intern** | 🏢 **Infosys ** | *Aug 2025 – Nov 2025* |
 | **AI/ML Intern** | 🚀 **Elevvo Pathways** | *Sept 2025 – Oct 2025* |
 
 > *Key achievements included building Handwritten OCR, Speech Emotion Recognition, and Public Policy Navigation tools using NLP.*
@@ -63,10 +63,7 @@ I am a Computer Engineering student and **AI Engineer in progress** focused on b
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryanpawar16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanpawar16&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  
-  <br/>
+ 
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryanpawar16&bg_color=1a1b27&color=70a5fd&line=3596F5&point=FFFFFF&hide_border=true" alt="Aaryan's Activity Graph" />
 
