@@ -37,8 +37,9 @@ I am a Computer Engineering student and **AI Engineer in progress** focused on b
 
 | Role | Company | Timeline |
 | :--- | :--- | :--- |
-| **AI/ML Intern** | 🏢 **Infosys ** | *Aug 2025 – Nov 2025* |
-| **AI/ML Intern** | 🚀 **Elevvo Pathways** | *Sept 2025 – Oct 2025* |
+| **Data Science Intern** | **Celebal Technologies** | *June 2026 – Present* |
+| **AI/ML Intern** | **Infosys** | *Aug 2025 – Nov 2025* |
+| **AI/ML Intern** | **Elevvo Pathways** | *Sept 2025 – Oct 2025* |
 
 > *Key achievements included building Handwritten OCR, Speech Emotion Recognition, and Public Policy Navigation tools using NLP.*
 
