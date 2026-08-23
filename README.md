@@ -37,7 +37,7 @@ I am a Computer Engineering student and **AI Engineer in progress** focused on b
 
 | Role | Company | Timeline |
 | :--- | :--- | :--- |
-| **Data Science Intern** | **Celebal Technologies** | *June 2026 – Present* |
+| **Data Science Intern** | **Celebal Technologies** | *June 2026 – Aug 2026* |
 | **AI/ML Intern** | **Infosys** | *Aug 2025 – Nov 2025* |
 | **AI/ML Intern** | **Elevvo Pathways** | *Sept 2025 – Oct 2025* |
 
