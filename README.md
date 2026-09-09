@@ -61,14 +61,8 @@ I am a Computer Engineering student and **AI Engineer in progress** focused on b
 
 ---
 
-### 📊 GitHub Analytics
+### 🐍 Contribution Snake
 
 <div align="center">
- 
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryanpawar16&bg_color=1a1b27&color=70a5fd&line=3596F5&point=FFFFFF&hide_border=true" alt="Aaryan's Activity Graph" />
-
-  <br/>
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR4Zmx6cTF5eHpwNXYyZnR4eGxpam5zZnk0ZmZ4emZ4eGxpam5zZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8K62iTDkzGX6/giphy.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/aaryanpawar16/aaryanpawar16/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
